@@ -137,6 +137,7 @@ h4 {
 }
 
 #mensagem-sucesso {
+    visibility: hidden;
     border: 1px solid #2fa32f;
     border-radius: 8px;
     padding: 28px;

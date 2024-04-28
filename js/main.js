@@ -5,10 +5,10 @@ $(document).ready(function() {
 
     $('form').validate({
         rules: {
-            nomeCompleto: {
+            nome: {
                 required: true
             }
-            enderecoCompleto: {
+            endereco: {
                 required: true
             }
             cep: {
